@@ -1,12 +1,2 @@
-## Hi there 👋
+![alt text](https://media.discordapp.net/attachments/1094949482535321690/1305939519421550592/Trading_webiste_-_Glowing__Gradient_Text_Style_Community.png?ex=6734da74&is=673388f4&hm=ae944ab387187d513e00fbecd8d20d89924bed9e90d167dfd2ef283d5f9bc00e&=&format=webp&quality=lossless)
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
